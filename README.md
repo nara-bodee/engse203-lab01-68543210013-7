@@ -16,9 +16,11 @@ npm run start
 โครงสร้างไฟล์
 
 .
-├── src/
+├── README.md
 ├── package.json
-└── README.md
+└── src
+    └── hello.js
+
 
 หลักฐานผลลัพธ์
 
